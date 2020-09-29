@@ -1,16 +1,16 @@
 {
 //เวอร์ชั่นไว้สำหรับอัพเดทหากมีการอัพเดทต้องเปลี่ยนตัวเลขให้เยอะกว่าเดิม
-"Version":"1.10",
+"Version":"1.11",
 //ลิ้งค์สำหรับอัพเดทเซิร์ฟเวอร์
-"Url":"https://github.com/tikvpn/tikvpn/raw/master/update.zip" ,
+"Url":"https://github.com/tikvpn/tikvpn/raw/master/updeta.zip" ,
 "Changelog":"
-พบไฟล์ใหม่ (28/05/2020)
+พบไฟล์ใหม่ (29/09/2020)
 รองรับ ซิม TRUE & DTAC
 DTAC โปร SHOPEE
 DTAC โปร HAPPYWORK
 TRUE โปร LINE
 มีไฟล์ VPS ฟรี
-มีไฟล์ฟรีเซิฟไทย auto(6เซิฟ)
+มีไฟล์ฟรีเซิฟไทย auto(7เซิฟ)
  
 ",
  
