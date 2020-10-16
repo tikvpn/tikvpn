@@ -1,10 +1,10 @@
 {
 //เวอร์ชั่นไว้สำหรับอัพเดทหากมีการอัพเดทต้องเปลี่ยนตัวเลขให้เยอะกว่าเดิม
-"Version":"1.13",
+"Version":"1.14",
 //ลิ้งค์สำหรับอัพเดทเซิร์ฟเวอร์
 "Url":"https://github.com/tikvpn/tikvpn/raw/master/updatebuu.zip" ,
 "Changelog":"
-พบไฟล์ใหม่ (14/10/2020)
+พบไฟล์ใหม่ (16/10/2020)
 รองรับ ซิม TRUE & DTAC
 DTAC โปร SHOPEE
 DTAC โปร Social
