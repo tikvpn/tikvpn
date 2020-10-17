@@ -2,7 +2,7 @@
 //เวอร์ชั่นไว้สำหรับอัพเดทหากมีการอัพเดทต้องเปลี่ยนตัวเลขให้เยอะกว่าเดิม
 "Version":"1.14",
 //ลิ้งค์สำหรับอัพเดทเซิร์ฟเวอร์
-"Url":"https://github.com/tikvpn/tikvpn/raw/master/updatebuu.zip" ,
+"Url":"https://github.com/tikvpn/tikvpn/raw/master/update%40Buu.zip" ,
 "Changelog":"
 พบไฟล์ใหม่ (16/10/2020)
 รองรับ ซิม TRUE & DTAC
