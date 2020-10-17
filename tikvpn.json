@@ -2,9 +2,9 @@
 //เวอร์ชั่นไว้สำหรับอัพเดทหากมีการอัพเดทต้องเปลี่ยนตัวเลขให้เยอะกว่าเดิม
 "Version":"2.15",
 //ลิ้งค์สำหรับอัพเดทเซิร์ฟเวอร์
-"Url":"https://github.com/tikvpn/tikvpn/raw/master/updatetik.zip" ,
+"Url":"https://github.com/tikvpn/tikvpn/raw/master/update.zip" ,
 "Changelog":"
-พบไฟล์ใหม่ (18/10/2020)
+พบไฟล์ใหม่ (17/10/2020)
 รองรับ ซิม TRUE & DTAC
 DTAC โปร SHOPEE
 DTAC โปร Social
