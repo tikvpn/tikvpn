@@ -1,10 +1,11 @@
 {
 //เวอร์ชั่นไว้สำหรับอัพเดทหากมีการอัพเดทต้องเปลี่ยนตัวเลขให้เยอะกว่าเดิม
-"Version":"1.02",
+"Version":"1.03",
 //ลิ้งค์สำหรับอัพเดทเซิร์ฟเวอร์
-"Url":"https://github.com/tikvpn/tikvpn/blob/master/earth2.zip?raw=true" ,
+"Url":"https://github.com/tikvpn/tikvpn/blob/master/earth.zip?raw=true" ,
 "Changelog":"
-📣พบไฟล์ใหม่ (17/09/2021)
+📣พบไฟล์ใหม่ (26/09/2021)
+เพิ่มไฟล์ใช้งานฟรีทั้งทรูและดีแทค
       🎉รองรับเกมส์ออนไลน์🎉
 รองรับ ซิม DTAC TRUE ✅
 🆕🌟  DTAC โปร ช้อปปิ้ง✅
