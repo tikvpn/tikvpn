@@ -1,6 +1,6 @@
 {
 //เวอร์ชั่นไว้สำหรับอัพเดทหากมีการอัพเดทต้องเปลี่ยนตัวเลขให้เยอะกว่าเดิม
-"Version":"3.34",
+"Version":"3.35",
 //ลิ้งค์สำหรับอัพเดทเซิร์ฟเวอร์
 "Url":"https://github.com/tikvpn/tikvpn/blob/master/tik74.zip?raw=true" ,
 "Changelog":"
