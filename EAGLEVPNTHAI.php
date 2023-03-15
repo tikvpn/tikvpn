@@ -1,4 +1,4 @@
-{"Version":"1.1","Url":"https://github.com/tikvpn/tikvpn/blob/master/tik995.zip?raw=true","Text":"
+{"Version":"1.1","Url":"https://github.com/tikvpn/tikvpn/raw/master/tik995.zip","Text":"
 
 📢อัพเดท วันที่ 16 มีนาคม 2566
  
