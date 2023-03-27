@@ -1,6 +1,6 @@
-{"Version":"1.1","Url":"https://github.com/tikvpn/tikvpn/raw/master/EAGLEVPN1.zip?raw=true","Text":"
+{"Version":"1.1.1","Url":"https://github.com/tikvpn/tikvpn/raw/master/EAGLEVPN.1.zip?raw=true","Text":"
 
-📢อัพเดท วันที่ 16 มีนาคม 2566
+📢อัพเดท วันที่ 29 มีนาคม 2566
  
 🆙🌟  AISPLAY+64k ✅
 🆕🌟  DTAC โนโปร✅
