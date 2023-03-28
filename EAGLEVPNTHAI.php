@@ -1,14 +1,10 @@
-{"Version":"1.1.1","Url":"https://github.com/tikvpn/tikvpn/raw/master/EAGLEVPN.1.zip?raw=true","Text":"
+{"Version":"1.2","Url":"https://github.com/tikvpn/tikvpn/raw/master/EAGLEVPN2.zip?raw=true","Text":"
 
-📢อัพเดท วันที่ 29 มีนาคม 2566
+📢อัพเดท วันที่ 30 มีนาคม 2566
  
 🆙🌟  AISPLAY+64k ✅
 🆕🌟  DTAC โนโปร✅
-🆕🌟  DTAC โปร โซเชียล✅
-🆕🌟 TRUE โปร โซเชียล✅
 🆕🌟 TRUE โปร โนโปร✅
-🆕🌟 TRUE โปร อีสปอร์ต✅
-🆕🌟 TRUE โปร YouTube✅
 💥👉รองรับซิม ระบบแอนดรอยด์
  ✅อินเทอร์เน็ตความเร็วสูง
 ✅ แรงตามพื้นที่สัญญาณพื้นที่
