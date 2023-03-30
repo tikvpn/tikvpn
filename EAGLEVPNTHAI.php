@@ -1,4 +1,4 @@
-{"Version":"1.2","Url":"https://github.com/tikvpn/tikvpn/raw/master/EAGLEVPN2.zip?raw=true","Text":"
+{"Version":"1.3","Url":"https://github.com/tikvpn/tikvpn/raw/master/EAGLEVPN3.zip?raw=true","Text":"
 
 📢อัพเดท วันที่ 30 มีนาคม 2566
  
