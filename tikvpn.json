@@ -1,6 +1,6 @@
 {
 //เวอร์ชั่นไว้สำหรับอัพเดทหากมีการอัพเดทต้องเปลี่ยนตัวเลขให้เยอะกว่าเดิม
-"Version":"3.7.9",
+"Version":"3.8",
 //ลิ้งค์สำหรับอัพเดทเซิร์ฟเวอร์
 "Url":"https://github.com/tikvpn/tikvpn/blob/master/EAGLEVPN20.zip" ,
 "Changelog":"
