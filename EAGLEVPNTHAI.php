@@ -1,4 +1,4 @@
-{"Version":"1.38","Url":"https://github.com/tikvpn/tikvpn/raw/master/EAGLEVPN36.zip","Text":"
+{"Version":"1.39","Url":"https://github.com/tikvpn/tikvpn/raw/master/EAGLEVPN37.zip","Text":"
 
 📢อัพเดท วันที่ 08 มิถุนายน 2566
 #เพิ่มเซิพเวอร์VIP3 มาใหม่แรงๆ สนใจเช่าติดต่อแอดมิน 
